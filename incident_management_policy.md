@@ -1,0 +1,2 @@
+# Incident Management
+Report service outages, security concerns, lost devices, and suspected account compromise promptly. Include impact, affected service/device, time observed, error text, and steps already attempted. Do not include passwords, authentication codes, Aadhaar numbers, or other unnecessary sensitive personal information. If security compromise is suspected, escalate to the IT/security team rather than attempting risky remediation.

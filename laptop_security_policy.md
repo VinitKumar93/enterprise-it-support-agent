@@ -1,0 +1,2 @@
+# Laptop Security
+Keep operating systems and approved security software updated. Lock the screen when away. Do not share devices or credentials. Report suspected malware, lost devices, unexpected BitLocker recovery screens, or suspected compromise to IT. Do not bypass encryption or endpoint security controls. A BitLocker recovery key is sensitive and must only be retrieved through the approved company process.

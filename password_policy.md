@@ -1,0 +1,2 @@
+# Password Reset Policy
+Employees should use the approved self-service password portal when available. Helpdesk agents must never reveal an existing password. Identity and authorization must be verified before any administrative reset. Administrative password reset requires explicit human approval. Never reset another employee's password based only on a chat request. The demo app uses mock records and does not change real passwords.

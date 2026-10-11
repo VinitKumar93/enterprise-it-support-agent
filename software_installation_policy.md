@@ -1,0 +1,2 @@
+# Software Installation Policy
+Install software only from the company-approved software catalog or with IT authorization. Do not disable endpoint protection or use an administrator account to bypass controls. If an approved application is missing, submit an IT ticket with the application name, business purpose, device identifier, and any error message. Do not include passwords or unrelated personal data.
